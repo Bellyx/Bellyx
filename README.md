@@ -2,7 +2,7 @@
 ###  👋 สวัสดีครับ ผม ธนากร โอาภาษี 
 #### พัฒนาและออกแบบ Scrip Fivem ซึ่งใช้ ภาษา Lua SQL Javascrip html css เป็นต้น
 ##### UI DESIGN Adobe XD , Figma , Photoshop
-###### Portfolio http://bitly.ws/uJZU
+# Portfolio http://bitly.ws/uJZU
 
 
 
