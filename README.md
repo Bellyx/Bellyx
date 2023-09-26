@@ -1,6 +1,7 @@
 #  Hi I'm Thanakorn, Welcome to my github profile 👋
 ###  👋 สวัสดีครับ ผม ธนากร โอาภาษี 
-#### พัฒนาและออกแบบ Scrip Fivem ซึ่งใช้ ภาษา Lua SQL Javascrip html css เป็นต้น
+####   ภาษา C# ASP.NET JAVA ORACLE SQL  Javascrip html css Lua เป็นต้น
+#####  Report:  Report builder , Ireport 
 ##### UI DESIGN Adobe XD , Figma , Photoshop
 # Portfolio http://bitly.ws/uJZU
 
