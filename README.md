@@ -1,10 +1,10 @@
 #  Hi I'm Thanakorn, Welcome to my github profile 👋
 ###  👋 สวัสดีครับ ผม ธนากร โอาภาษี 
-####    junior Programmer  1.5 Year 
+####   Junior Programmer  1.5 Year ISOCARE
 ####   FRONT-End: ASP.NET(MVC), JAVA , Javascript, html, css, Lua 
 ####   Black-End: C# , ASP.NET(MVC), ORACLE, SQL
 #####  Report:  IREPORT ,   Report builder
-##### UI DESIGN Adobe XD , Figma , Photoshop
+#####  UX/UI:   Adobe XD , Figma , Photoshop
 # Portfolio http://bitly.ws/uJZU
 
 
