@@ -1,6 +1,6 @@
 #  Hi I'm Thanakorn, Welcome to my github profile 👋
 ###  👋 สวัสดีครับ ผม ธนากร โอาภาษี 
-####   Junior Programmer  1.5 Year ISOCARE
+####   Junior Programmer  2+ Year ISOCARE
 ####   FRONT-End: ASP.NET(MVC), JAVA , Javascript, HTML, CSS, Lua 
 ####   Black-End: C# , ASP.NET(MVC), ORACLE, SQL
 #####  Report:  IREPORT ,   Report builder
