@@ -5,7 +5,7 @@
 ####   Black-End: C# , ASP.NET(MVC), ORACLE, SQL
 #####  Report:  IREPORT ,   Report builder
 #####  UX/UI:   Adobe XD , Figma , Photoshop
-# Portfolio http://bitly.ws/uJZU
+# Portfolio https://shorturl.asia/e9mUP
 
 
 
